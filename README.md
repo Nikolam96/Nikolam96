@@ -1,8 +1,6 @@
 Welcome to My Coding Journey! 🚀
 Hi there, my name is Nikola Mitic! 👋
 
-I'm on an exhilarating journey of discovery in the fascinating realm of coding. If you stumbled upon my GitHub profile, you've found a front-row seat to witness my growth as a developer.
-
 🌱 About Me:
 💡 Currently learning and exploring the captivating world of programming;
 
