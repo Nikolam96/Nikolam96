@@ -10,7 +10,6 @@ Hi there, my name is Nikola Mitic! 👋
 - 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01c637dfa44adc73b0) as a freelance web developer
 - 🔭 I’m currently looking for a full-time remote job
 - 🌱 I’m currently learning SQL
-- 💡 Currently learning and exploring the captivating world of programming
 - 🎓 Recently graduated from Semos Academy
 - 🌐 Passionate about web development and eager to dive deeper into coding challenges
 📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
