@@ -1,40 +1,18 @@
 Welcome to My Coding Journey! 🚀
 Hi there, my name is Nikola Mitic! 👋
 
-🌱 About Me:
-💡 Currently learning and exploring the captivating world of programming;
-
-🎓 Recently graduated from Semos Academy;
-
-🌐 Passionate about web development and eager to dive deeper into coding challenges;
-
-📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
-
-🔧 Skills at a Glance:
-Languages: HTML, CSS, JavaScript, TypeScript
-
-Frontend: MUI, Bootstrap, React.js, Tailwind
-
-Backend: Node.js, Express.js, 
-
-Databases: MongoDB, mySQL
-
-Tools: Visual Studio Code, Postman, Slack
-
-Open Source: Git, GitHub,
-
-📫 Get in Touch:
-You can reach me at nikolamitic1696@gmail.com
-
-⚡️ Fun fact Déjà vu is just a brain-processing lag.
 
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
 
-- 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01efd3f02eb05280fa) as a freelance web developer
+- 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01c637dfa44adc73b0) as a freelance web developer
 - 🔭 I’m currently looking for a full-time remote job
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning SQL
+- 💡 Currently learning and exploring the captivating world of programming
+- 🎓 Recently graduated from Semos Academy
+- 🌐 Passionate about web development and eager to dive deeper into coding challenges
+📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React, TailwindCSS, NextJS, MongoDB, Mongoose
@@ -51,6 +29,7 @@ You can reach me at nikolamitic1696@gmail.com
 <br>
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <a href="https://www.linkedin.com/in/md-mahidun-nobi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MahidunNobi" height="30" width="40" /></a> 
+
 
 <br/>
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
