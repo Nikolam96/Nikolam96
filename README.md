@@ -12,7 +12,8 @@ Hi there, my name is Nikola Mitic! 👋
 - 🌱 I’m currently learning SQL
 - 🎓 Recently graduated from Semos Academy
 - 🌐 Passionate about web development and eager to dive deeper into coding challenges
-📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
+- 📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
+
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React, TailwindCSS, ExpressJS, MongoDB, Mongoose
