@@ -15,7 +15,7 @@ Hi there, my name is Nikola Mitic! 👋
 📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React, TailwindCSS, NextJS, MongoDB, Mongoose
+- 💬 Ask me about React, TailwindCSS, ExpressJS, MongoDB, Mongoose
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
@@ -23,7 +23,7 @@ Hi there, my name is Nikola Mitic! 👋
 
 <br>
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<a href="https://www.linkedin.com/in/md-mahidun-nobi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MahidunNobi" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/nikola-mitic-94b30429b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MahidunNobi" height="30" width="40" /></a> 
 
 
 <br/>
