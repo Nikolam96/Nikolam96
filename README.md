@@ -1,5 +1,3 @@
-Welcome to My Coding Journey! 🚀
-
 Hi there, my name is Nikola Mitic! 👋
 
 
