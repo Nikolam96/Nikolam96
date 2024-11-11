@@ -13,7 +13,7 @@ Hi there, my name is Nikola Mitic! 👋
 
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React, TailwindCSS, ExpressJS, MongoDB, Mongoose
+- 💬 Ask me about React, TailwindCSS, ExpressJS, MongoDB, Mongoose,SQL
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
