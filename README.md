@@ -5,12 +5,6 @@
 - 🌐 Passionate about web development and eager to dive deeper into coding challenges
 - 📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
 
-<!-- 👯 I’m looking to collaborate on ... -->
-<!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React, TailwindCSS, SQL, PHP, Laravel, Vue
-<!-- 📫 How to reach me: ... -->
-<!-- 😄 Pronouns: ... -->
-<!-- ⚡ Fun fact: ... -->
 
 <h2 >Languages and Tools 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
