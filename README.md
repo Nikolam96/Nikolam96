@@ -26,7 +26,7 @@
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Laravel_Logo.svg" alt="Laravel" width="40" height="40"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a0/Laravel_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
